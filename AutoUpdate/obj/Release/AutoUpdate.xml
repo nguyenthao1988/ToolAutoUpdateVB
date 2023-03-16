@@ -1,0 +1,90 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AutoUpdate
+</name>
+</assembly>
+<members>
+<member name="T:AutoUpdate.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AutoUpdate.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AutoUpdate.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:AutoUpdate.My.Resources.Resources._error">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutoUpdate.My.Resources.Resources.chat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutoUpdate.My.Resources.Resources.exclamation">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutoUpdate.My.Resources.Resources.Hopstarter_Plastic_Mini_World_Refresh_32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutoUpdate.My.Resources.Resources.information">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutoUpdate.My.Resources.Resources.logo_sxcad">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutoUpdate.My.Resources.Resources.question">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutoUpdate.My.Resources.Resources.Saki_Snowish_Install_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AutoUpdate.My.Resources.Resources.sxcad_logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:AutoUpdate.Extensions.PercentageOf(System.Int32,System.Int32)">
+ <summary>
+ Return current percent from currentValue of
+ totalValue
+ </summary>
+ <param name="currentValue"></param>
+ <param name="totalValue"></param>
+ <returns></returns>
+</member>
+<member name="M:AutoUpdate.Extensions.ToEnglishKb(System.Int64)">
+ <summary>
+ Provides byte abbreviations 
+ </summary>
+ <param name="bytes"></param>
+ <returns></returns>
+ <remarks>
+ array elements in suffix could be changed to uppercase 
+ </remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,420 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Update>
+		<File Name='@@Video huong dan.txt' MD5='dbf15341b7861463fc5e01d01110de86' />
+		<File Name='@Ban_Quyen_sxCAD.png' MD5='0c7b6c72d974368874915310c142db9e' />
+		<File Name='@Huong dan cai dat.doc' MD5='56e8abc78f88a7da7962d1b071a08a55' />
+		<File Name='@HuongDanSuDung.pdf' MD5='c28997b9d979dee626facb94b86a0bb6' />
+		<File Name='@sxCAD.LSP' MD5='b156b2d90bf3d90e7f490cc91ee5f123' />
+		<File Name='@sxCAD_2.LSP' MD5='9f8ccc9ef3ca9389d40b05ea0e3fc957' />
+		<File Name='cbd.exe' MD5='b9ea08b60663a0f274402bf15d2de905' />
+		<File Name='cbd1.arx' MD5='0121a0508bd1fcd6eeb5937c70ca7e7d' />
+		<File Name='cbd2.arx' MD5='84904ab8ade01a670c6ce914ad62c434' />
+		<File Name='cbd3.arx' MD5='973ba8fbcd632ea41e2d460f4fa300e5' />
+		<File Name='cbd4.arx' MD5='a837b9b105707d4c0085c056a88a78c0' />
+		<File Name='cbd5.arx' MD5='c4470a6ecef988da26f0b61fcc5940b0' />
+		<File Name='cbdc.arx' MD5='8ddcf792d376cabd4c1fa96ba9da308e' />
+		<File Name='ccd.exe' MD5='3f7deb34e4a951ddbe48177b1e846eca' />
+		<File Name='ccd1.arx' MD5='4f10478e15cd9354aa5a75ad81f4f0f7' />
+		<File Name='Config.in' MD5='4bd4de548242e83dae239df9f4c6d22f' />
+		<File Name='csd1.arx' MD5='215e10c76ebe969d83643dbe5c5ef725' />
+		<File Name='csd2.arx' MD5='2f53717d60774da4e8dfbfb2ad9bf0fe' />
+		<File Name='csd3.arx' MD5='255e5d7d4514c8e6cebc3a152d31bd2a' />
+		<File Name='csd4.arx' MD5='5f8293dc6c9b4cf2c725aeb3fdcb9810' />
+		<File Name='csd5.arx' MD5='1bf040c69f2a0b423d6e7c22dca3d5ab' />
+		<File Name='csd51.arx' MD5='a3f236954fdf6eb5a927eca207927cf4' />
+		<File Name='csd52.arx' MD5='3304e98e9c96e734f723f652c601a77a' />
+		<File Name='csd53.arx' MD5='fb035aae97c6adba47783ff0b48c7ba1' />
+		<File Name='csd54.arx' MD5='e8c51819bddf6b6876fb4fd9db776cc0' />
+		<File Name='Dang Ky.exe' MD5='f8714d650e16b260aa80890eb914b40d' />
+		<File Name='hardcopy.log' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='hatch.pat' MD5='850dd364e65e34e5c8addcb63de85e99' />
+		<File Name='miniapp.exe' MD5='936404f379511e5389ab32a283a5d07b' />
+		<File Name='MySql.Data.dll' MD5='495da0b7661e2d9b62ed7529252da6f6' />
+		<File Name='MySql.Data1.dll' MD5='495da0b7661e2d9b62ed7529252da6f6' />
+		<File Name='pfd.arx' MD5='c3d25403d6e7eb7f55b770d14d7c1d4c' />
+		<File Name='pfd1.arx' MD5='c3d25403d6e7eb7f55b770d14d7c1d4c' />
+		<File Name='plot.log' MD5='baad32e24f0d6c1f875a9103528a72b3' />
+		<File Name='sxcad.bak.cui' MD5='a3c92788e2220fb4ae5d0583800fe98d' />
+		<File Name='sxcad.bak.cuix' MD5='3a7e277546341b46f1d7320f22e8e0e8' />
+		<File Name='SXCad.cui' MD5='0581d948d7883546b00e49027036c4bd' />
+		<File Name='sxCAD.cuix' MD5='0db30c6cf2f3fb4e66a561c4d921e613' />
+		<File Name='sxcad.mnr' MD5='0a8b08696fd855b08b32ef9a42a6bac4' />
+		<File Name='sxCAD2007_2012.dll' MD5='36e5f18151dc5a23d00855a36d473d7f' />
+		<File Name='sxCAD2013_2014.dll' MD5='16113be4d73d55b6f9b3b2c5f111c35a' />
+		<File Name='sxCAD2013_2014_2.dll' MD5='a87cc1203abe02475f75fca146a90b53' />
+		<File Name='sxCAD2015_2017.dll' MD5='a5c68586c44ca033c2031e046f72092a' />
+		<File Name='sxCAD2015_2017_2.dll' MD5='40de918622977fcc69afcda2348cd8da' />
+		<File Name='sxCAD2018.dll' MD5='e6f6d644358c4df98584c2ef74d6a821' />
+		<File Name='sxCAD2018_2.dll' MD5='e7ae282616813202a39bc8886db62398' />
+		<File Name='sxCAD2019.dll' MD5='0daa1c1a531bbada420723f668239b94' />
+		<File Name='sxCAD2019_2.dll' MD5='5fcbbc9c9dabe8fe11ce9cb3b1b946a6' />
+		<File Name='sxCAD2020.dll' MD5='e36abc61a8d0100b3cea5841e1f67a88' />
+		<File Name='sxCAD2020_2.dll' MD5='429afd7c67ff546f7108a8ae4469c949' />
+		<File Name='sxCAD2021.dll' MD5='8d41d2f4ddb1b7c7351502703c1e05e7' />
+		<File Name='sxCAD2021_2.dll' MD5='1489ca46c59595f5d25976d6a117ed5d' />
+		<File Name='sxCAD2022.dll' MD5='3fee2f6b270a061c7bbd95443de535ad' />
+		<File Name='sxCAD2022_2.dll' MD5='31d2bed38021fc286ec5a1900a21d937' />
+		<File Name='sxCAD2023.dll' MD5='a633be7c11449607ce23bf7cbbda8653' />
+		<File Name='sxCAD2023_2.dll' MD5='aff94acb3119b6b25fd63d966d3fde65' />
+		<File Name='sxcad_light.mnr' MD5='01c50204cd264c31e604fbf9e90b4acc' />
+		<File Name='Update.exe' MD5='9d2131980af1cfc1f654908734254c4d' />
+	<Folder Name='Ban ve mau' />
+		<File Name='Ban ve mau\Ban ve mau sxCAD.dwg' MD5='f219a067709e9f74d3ed4d41b9dfab46' />
+	<Folder Name='Ban ve mau\1. MONG' />
+		<File Name='Ban ve mau\1. MONG\MD1.sfd' MD5='589c0c1595da8e701b86c13f2292f089' />
+		<File Name='Ban ve mau\1. MONG\MD2.sfd' MD5='931a9bd43f366f51695c33b9e9e2d20a' />
+	<Folder Name='Ban ve mau\2. DAM' />
+		<File Name='Ban ve mau\2. DAM\dam 3.cbd' MD5='f15e5f305f1f4fb64d36d9fe705a4357' />
+		<File Name='Ban ve mau\2. DAM\Dam console.cbd' MD5='3ed879f9f284a5050dc303c2b6fd1a3e' />
+		<File Name='Ban ve mau\2. DAM\DAM T2.cbd' MD5='a81f2613c1317d9bc93b846865f49c66' />
+	<Folder Name='Ban ve mau\2. DAM\dam 1' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2.cbd' MD5='ce39c9baa1b56ebcb7076e77339f11cc' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22.cbd' MD5='5841cf421beb64b73fd2e53e9df5bed3' />
+	<Folder Name='Ban ve mau\2. DAM\dam 1\tang 2' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\cbd.cbd' MD5='ab84cb51a5aba5929171f2a12bec1a1b' />
+	<Folder Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW' />
+	<Folder Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\BCHWXQ' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\BCHWXQ\hai.cbd' MD5='b6b8f11edc669fe67ed96a7b291279cc' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\BCHWXQ\lan.cbd' MD5='f3ce7ae1781415c99792a900035a10e7' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\BCHWXQ\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\BCHWXQ\nhi.cbd' MD5='bd3122c898766c2511bcda98f5d63a7c' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\BCHWXQ\tam.cbd' MD5='d6f8102472127c49a95fe8a31f81a9d7' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\BCHWXQ\tha.cbd' MD5='8b2304fbe87cc232a593253e65e476bf' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\BCHWXQ\thu.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\BCHWXQ\thy.cbd' MD5='2557b1271175edf8a70529692d9f6534' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\BCHWXQ\vie.cbd' MD5='2304b0d233aef46695a41824241461c5' />
+	<Folder Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\BNIHOH' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\BNIHOH\hai.cbd' MD5='cc1299ab23ec1f862204f822974e0ec2' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\BNIHOH\lan.cbd' MD5='2f4c1cde2677ed91ff4ffcfdb057f559' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\BNIHOH\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\BNIHOH\nhi.cbd' MD5='da96d5a4e175aa9adcab10ef2d75c2cd' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\BNIHOH\tam.cbd' MD5='015c73b03782410b6592f076920ecc9b' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\BNIHOH\tha.cbd' MD5='512b7ce53382bf901a7f452a055461bb' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\BNIHOH\thu.cbd' MD5='ad88fa99d94a29251f30a1fbcbae9d81' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\BNIHOH\thy.cbd' MD5='a497bac5fd9b5a2435222684c35ae129' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\BNIHOH\vie.cbd' MD5='2f4c1cde2677ed91ff4ffcfdb057f559' />
+	<Folder Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\IHOTDT' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\IHOTDT\hai.cbd' MD5='cc1299ab23ec1f862204f822974e0ec2' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\IHOTDT\lan.cbd' MD5='04b77b0dff65a1ea996ce94c59506f6a' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\IHOTDT\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\IHOTDT\nhi.cbd' MD5='103549cf626a7dcd10c1449327f01c89' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\IHOTDT\tam.cbd' MD5='4fd61c00080015c6f37633edafd22218' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\IHOTDT\tha.cbd' MD5='77c765136b41101a09580ca7ca9712b5' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\IHOTDT\thu.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\IHOTDT\thy.cbd' MD5='6364653490dcff26c6c5a8d35753641e' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\IHOTDT\vie.cbd' MD5='2f4c1cde2677ed91ff4ffcfdb057f559' />
+	<Folder Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\KSHJIU' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\KSHJIU\hai.cbd' MD5='a5b5d27aae58c435e6f1d491627e13be' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\KSHJIU\lan.cbd' MD5='5bf1e31956d67602b514795ca019a177' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\KSHJIU\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\KSHJIU\nhi.cbd' MD5='62820157e9524d1b585efdd57599c5c9' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\KSHJIU\tam.cbd' MD5='0848a56a12bcc665db2d89e640f454dd' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\KSHJIU\tha.cbd' MD5='b3b7d30154b9c205f3a43526cc602f8c' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\KSHJIU\thu.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\KSHJIU\thy.cbd' MD5='b947d8e0e65f6bc22cde184b38298eaf' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\KSHJIU\vie.cbd' MD5='c16b53c72e6fbe1c72fce05eba47db79' />
+	<Folder Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\XYXJXU' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\XYXJXU\hai.cbd' MD5='af62323aa713f4690055598e1095560f' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\XYXJXU\lan.cbd' MD5='2317e7de1bbabfda634887226552f146' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\XYXJXU\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\XYXJXU\nhi.cbd' MD5='2019637960fef9b9f2bd934bf4671a08' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\XYXJXU\tam.cbd' MD5='737d8d69779b00c446afc2c4b6356584' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\XYXJXU\tha.cbd' MD5='55d64c7c9fefc23e232dde40e1366eb8' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\XYXJXU\thu.cbd' MD5='e7317c80e5e6c9e19bc5a7ac3e163dde' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\XYXJXU\thy.cbd' MD5='a0fd27c924dff550d81de98c84bf5ac9' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 2\GVASNW\XYXJXU\vie.cbd' MD5='f8cb106d13089168dd612a896a9d26d5' />
+	<Folder Name='Ban ve mau\2. DAM\dam 1\tang 22' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\cbd.cbd' MD5='4c10fdee1350a6daea71ea3b4dcb1b0f' />
+	<Folder Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW' />
+	<Folder Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\BCHWXQ' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\BCHWXQ\hai.cbd' MD5='b6b8f11edc669fe67ed96a7b291279cc' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\BCHWXQ\lan.cbd' MD5='f3ce7ae1781415c99792a900035a10e7' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\BCHWXQ\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\BCHWXQ\nhi.cbd' MD5='bd3122c898766c2511bcda98f5d63a7c' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\BCHWXQ\tam.cbd' MD5='d6f8102472127c49a95fe8a31f81a9d7' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\BCHWXQ\tha.cbd' MD5='8b2304fbe87cc232a593253e65e476bf' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\BCHWXQ\thu.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\BCHWXQ\thy.cbd' MD5='6deae6085667f7e6ae945f616715156a' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\BCHWXQ\vie.cbd' MD5='2304b0d233aef46695a41824241461c5' />
+	<Folder Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\BNIHOH' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\BNIHOH\hai.cbd' MD5='cc1299ab23ec1f862204f822974e0ec2' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\BNIHOH\lan.cbd' MD5='2f4c1cde2677ed91ff4ffcfdb057f559' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\BNIHOH\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\BNIHOH\nhi.cbd' MD5='da96d5a4e175aa9adcab10ef2d75c2cd' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\BNIHOH\tam.cbd' MD5='015c73b03782410b6592f076920ecc9b' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\BNIHOH\tha.cbd' MD5='512b7ce53382bf901a7f452a055461bb' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\BNIHOH\thu.cbd' MD5='ad88fa99d94a29251f30a1fbcbae9d81' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\BNIHOH\thy.cbd' MD5='a497bac5fd9b5a2435222684c35ae129' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\BNIHOH\vie.cbd' MD5='2f4c1cde2677ed91ff4ffcfdb057f559' />
+	<Folder Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\IHOTDT' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\IHOTDT\hai.cbd' MD5='cc1299ab23ec1f862204f822974e0ec2' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\IHOTDT\lan.cbd' MD5='04b77b0dff65a1ea996ce94c59506f6a' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\IHOTDT\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\IHOTDT\nhi.cbd' MD5='103549cf626a7dcd10c1449327f01c89' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\IHOTDT\tam.cbd' MD5='4fd61c00080015c6f37633edafd22218' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\IHOTDT\tha.cbd' MD5='77c765136b41101a09580ca7ca9712b5' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\IHOTDT\thu.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\IHOTDT\thy.cbd' MD5='6364653490dcff26c6c5a8d35753641e' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\IHOTDT\vie.cbd' MD5='2f4c1cde2677ed91ff4ffcfdb057f559' />
+	<Folder Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\KSHJIU' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\KSHJIU\hai.cbd' MD5='d53b53c75499f6d5452f42a9a5cfdea7' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\KSHJIU\lan.cbd' MD5='5bf1e31956d67602b514795ca019a177' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\KSHJIU\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\KSHJIU\nhi.cbd' MD5='62820157e9524d1b585efdd57599c5c9' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\KSHJIU\tam.cbd' MD5='0848a56a12bcc665db2d89e640f454dd' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\KSHJIU\tha.cbd' MD5='b3b7d30154b9c205f3a43526cc602f8c' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\KSHJIU\thu.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\KSHJIU\thy.cbd' MD5='3fe8badde30d89f552594bd75b506a8c' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\KSHJIU\vie.cbd' MD5='c16b53c72e6fbe1c72fce05eba47db79' />
+	<Folder Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\WLSQQV' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\WLSQQV\hai.cbd' MD5='86f4b6c86761286fdf5cb7d05651ab3d' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\WLSQQV\lan.cbd' MD5='00d7ad2959b117d3f87739ad3669fe08' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\WLSQQV\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\WLSQQV\nhi.cbd' MD5='b769f9fc55d639d28a3047c9c400acda' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\WLSQQV\tam.cbd' MD5='42ca14139881e828e88faa7cc66e5c36' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\WLSQQV\tha.cbd' MD5='bfc1b0d7d172b9d8019555fc599da41d' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\WLSQQV\thu.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\WLSQQV\thy.cbd' MD5='02ee8e0a57650e17455336b187764913' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\WLSQQV\vie.cbd' MD5='39daf9fb59a68f78d82be6ab50459eb7' />
+	<Folder Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\XYXJXU' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\XYXJXU\hai.cbd' MD5='af62323aa713f4690055598e1095560f' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\XYXJXU\lan.cbd' MD5='2317e7de1bbabfda634887226552f146' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\XYXJXU\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\XYXJXU\nhi.cbd' MD5='2019637960fef9b9f2bd934bf4671a08' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\XYXJXU\tam.cbd' MD5='737d8d69779b00c446afc2c4b6356584' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\XYXJXU\tha.cbd' MD5='55d64c7c9fefc23e232dde40e1366eb8' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\XYXJXU\thu.cbd' MD5='e7317c80e5e6c9e19bc5a7ac3e163dde' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\XYXJXU\thy.cbd' MD5='a0fd27c924dff550d81de98c84bf5ac9' />
+		<File Name='Ban ve mau\2. DAM\dam 1\tang 22\GVASNW\XYXJXU\vie.cbd' MD5='f8cb106d13089168dd612a896a9d26d5' />
+	<Folder Name='Ban ve mau\2. DAM\dam 2' />
+		<File Name='Ban ve mau\2. DAM\dam 2\dam 2.cbd' MD5='5eab42ab594b4db9ac191bae516e016e' />
+	<Folder Name='Ban ve mau\2. DAM\dam 2\dam 2' />
+		<File Name='Ban ve mau\2. DAM\dam 2\dam 2\cbd.cbd' MD5='fa7a6edf06949f17fd9b9f394ce6b203' />
+	<Folder Name='Ban ve mau\2. DAM\dam 2\dam 2\MNBDBK' />
+	<Folder Name='Ban ve mau\2. DAM\dam 2\dam 2\MNBDBK\YIBAXL' />
+		<File Name='Ban ve mau\2. DAM\dam 2\dam 2\MNBDBK\YIBAXL\hai.cbd' MD5='33cfa9a7ffec95a9a09e79ff23cd4d53' />
+		<File Name='Ban ve mau\2. DAM\dam 2\dam 2\MNBDBK\YIBAXL\lan.cbd' MD5='b6e14f98e95e2a81e971da78f3491683' />
+		<File Name='Ban ve mau\2. DAM\dam 2\dam 2\MNBDBK\YIBAXL\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\dam 2\dam 2\MNBDBK\YIBAXL\nhi.cbd' MD5='d7fe8ef901dcad87469a7d911a601cf6' />
+		<File Name='Ban ve mau\2. DAM\dam 2\dam 2\MNBDBK\YIBAXL\tam.cbd' MD5='e6cbc8f79681c43e78f58bdd5633d923' />
+		<File Name='Ban ve mau\2. DAM\dam 2\dam 2\MNBDBK\YIBAXL\tha.cbd' MD5='ec5f65145dcaea99919b07530a1058a3' />
+		<File Name='Ban ve mau\2. DAM\dam 2\dam 2\MNBDBK\YIBAXL\thu.cbd' MD5='c364df73676227ae56255cb2626a417d' />
+		<File Name='Ban ve mau\2. DAM\dam 2\dam 2\MNBDBK\YIBAXL\thy.cbd' MD5='218d411c5ff856bd4c2ed5a1f7024177' />
+		<File Name='Ban ve mau\2. DAM\dam 2\dam 2\MNBDBK\YIBAXL\vie.cbd' MD5='2e815bbc4cff9cd5ea7f4a27fc3e09ab' />
+	<Folder Name='Ban ve mau\2. DAM\dam 3' />
+		<File Name='Ban ve mau\2. DAM\dam 3\cbd.cbd' MD5='bb76f03a5f58dbbbc4866a0efdc95be3' />
+	<Folder Name='Ban ve mau\2. DAM\dam 3\GITBRO' />
+	<Folder Name='Ban ve mau\2. DAM\dam 3\GITBRO\MIOTNY' />
+		<File Name='Ban ve mau\2. DAM\dam 3\GITBRO\MIOTNY\hai.cbd' MD5='5839c338052d9cef60f2d1aba2aae67c' />
+		<File Name='Ban ve mau\2. DAM\dam 3\GITBRO\MIOTNY\lan.cbd' MD5='c8c356423d65965faec0ba43a31ca20d' />
+		<File Name='Ban ve mau\2. DAM\dam 3\GITBRO\MIOTNY\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\dam 3\GITBRO\MIOTNY\nhi.cbd' MD5='60e2c409084500d8977123b83fff677b' />
+		<File Name='Ban ve mau\2. DAM\dam 3\GITBRO\MIOTNY\tam.cbd' MD5='a4a6659126fb1d6fea6349cc3fa4e742' />
+		<File Name='Ban ve mau\2. DAM\dam 3\GITBRO\MIOTNY\tha.cbd' MD5='9ababbec43141904a2033165376a3edb' />
+		<File Name='Ban ve mau\2. DAM\dam 3\GITBRO\MIOTNY\thu.cbd' MD5='62f664911fef9c80015481c582be63a8' />
+		<File Name='Ban ve mau\2. DAM\dam 3\GITBRO\MIOTNY\thy.cbd' MD5='a36d93efa0ec1ffb0b0e942fc190bc3a' />
+		<File Name='Ban ve mau\2. DAM\dam 3\GITBRO\MIOTNY\vie.cbd' MD5='466811432023c244de04f0554c6ae738' />
+	<Folder Name='Ban ve mau\2. DAM\dam 3\GITBRO\YOBCSO' />
+		<File Name='Ban ve mau\2. DAM\dam 3\GITBRO\YOBCSO\hai.cbd' MD5='70492bcd4fdb4f5f7684b42713af05d3' />
+		<File Name='Ban ve mau\2. DAM\dam 3\GITBRO\YOBCSO\lan.cbd' MD5='5b4bed83edb178704763c4ddb7ce6bcf' />
+		<File Name='Ban ve mau\2. DAM\dam 3\GITBRO\YOBCSO\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\dam 3\GITBRO\YOBCSO\nhi.cbd' MD5='391fc68a979a1653fdd36e7a41197432' />
+		<File Name='Ban ve mau\2. DAM\dam 3\GITBRO\YOBCSO\tam.cbd' MD5='34f52d1ba977b77fc84462cb6c4ed5ab' />
+		<File Name='Ban ve mau\2. DAM\dam 3\GITBRO\YOBCSO\tha.cbd' MD5='4dafaaa012d839b063131d0656921aaa' />
+		<File Name='Ban ve mau\2. DAM\dam 3\GITBRO\YOBCSO\thu.cbd' MD5='bb43cd99cc0d482ab3ee95a11fdc5c30' />
+		<File Name='Ban ve mau\2. DAM\dam 3\GITBRO\YOBCSO\thy.cbd' MD5='2cf5173521d00a1134a0fd9d6a475857' />
+		<File Name='Ban ve mau\2. DAM\dam 3\GITBRO\YOBCSO\vie.cbd' MD5='5b4bed83edb178704763c4ddb7ce6bcf' />
+	<Folder Name='Ban ve mau\2. DAM\Dam console' />
+		<File Name='Ban ve mau\2. DAM\Dam console\cbd.cbd' MD5='cb663297ad1ca8b028ec51f934f19b4a' />
+	<Folder Name='Ban ve mau\2. DAM\Dam console\OGNHVM' />
+	<Folder Name='Ban ve mau\2. DAM\Dam console\OGNHVM\NMTBEM' />
+		<File Name='Ban ve mau\2. DAM\Dam console\OGNHVM\NMTBEM\hai.cbd' MD5='86f4b6c86761286fdf5cb7d05651ab3d' />
+		<File Name='Ban ve mau\2. DAM\Dam console\OGNHVM\NMTBEM\lan.cbd' MD5='0e7676aadf13b712e61ee6f2ad8ae981' />
+		<File Name='Ban ve mau\2. DAM\Dam console\OGNHVM\NMTBEM\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\Dam console\OGNHVM\NMTBEM\nhi.cbd' MD5='1cdf29f69d0e9ea088d07c4e840303d3' />
+		<File Name='Ban ve mau\2. DAM\Dam console\OGNHVM\NMTBEM\tam.cbd' MD5='8bf8f516e80c857be4599a6fb0f185c4' />
+		<File Name='Ban ve mau\2. DAM\Dam console\OGNHVM\NMTBEM\tha.cbd' MD5='7125c90ceab53039efd266afd587db95' />
+		<File Name='Ban ve mau\2. DAM\Dam console\OGNHVM\NMTBEM\thu.cbd' MD5='08e2fc9305b82f34b026764c04c94cbf' />
+		<File Name='Ban ve mau\2. DAM\Dam console\OGNHVM\NMTBEM\thy.cbd' MD5='d2673df146ac95c6fc27cc5d8f9c5476' />
+		<File Name='Ban ve mau\2. DAM\Dam console\OGNHVM\NMTBEM\vie.cbd' MD5='e7156dc956b088f2088239b0f100c18c' />
+	<Folder Name='Ban ve mau\2. DAM\Dam console\OGNHVM\TXBKVH' />
+		<File Name='Ban ve mau\2. DAM\Dam console\OGNHVM\TXBKVH\hai.cbd' MD5='420a0e15057993154ba3822554e89592' />
+		<File Name='Ban ve mau\2. DAM\Dam console\OGNHVM\TXBKVH\lan.cbd' MD5='0e7676aadf13b712e61ee6f2ad8ae981' />
+		<File Name='Ban ve mau\2. DAM\Dam console\OGNHVM\TXBKVH\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\Dam console\OGNHVM\TXBKVH\nhi.cbd' MD5='d291debb6237864b06af7e6ff0b45d69' />
+		<File Name='Ban ve mau\2. DAM\Dam console\OGNHVM\TXBKVH\tam.cbd' MD5='8bf8f516e80c857be4599a6fb0f185c4' />
+		<File Name='Ban ve mau\2. DAM\Dam console\OGNHVM\TXBKVH\tha.cbd' MD5='7e6bd22c8e7fd568c4f5bf61faa6916e' />
+		<File Name='Ban ve mau\2. DAM\Dam console\OGNHVM\TXBKVH\thu.cbd' MD5='08e2fc9305b82f34b026764c04c94cbf' />
+		<File Name='Ban ve mau\2. DAM\Dam console\OGNHVM\TXBKVH\thy.cbd' MD5='2e4216cee1585e81e769e16e9513fc88' />
+		<File Name='Ban ve mau\2. DAM\Dam console\OGNHVM\TXBKVH\vie.cbd' MD5='e7156dc956b088f2088239b0f100c18c' />
+	<Folder Name='Ban ve mau\2. DAM\DAM T2' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\cbd.cbd' MD5='6e714efcbbb461a6b40d4bbb62d0452d' />
+	<Folder Name='Ban ve mau\2. DAM\DAM T2\GHEUIT' />
+	<Folder Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\DYOWVI' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\DYOWVI\hai.cbd' MD5='cc1299ab23ec1f862204f822974e0ec2' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\DYOWVI\lan.cbd' MD5='04b77b0dff65a1ea996ce94c59506f6a' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\DYOWVI\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\DYOWVI\nhi.cbd' MD5='dfb42aa21c575212c1bcd0292900669a' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\DYOWVI\tam.cbd' MD5='d53a274a8405d2e78b5df00acdb82e9a' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\DYOWVI\tha.cbd' MD5='26c5872784c0b30e97dc462ee5affa18' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\DYOWVI\thu.cbd' MD5='9f37dea0045bc809f39c34a06014c36f' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\DYOWVI\thy.cbd' MD5='1fb7c3122bdb0a5ef90598e67471c251' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\DYOWVI\vie.cbd' MD5='04b77b0dff65a1ea996ce94c59506f6a' />
+	<Folder Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\EKBSCH' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\EKBSCH\hai.cbd' MD5='33cb3d4b47e252d49820ee2e2683233c' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\EKBSCH\lan.cbd' MD5='2f4c1cde2677ed91ff4ffcfdb057f559' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\EKBSCH\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\EKBSCH\nhi.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\EKBSCH\tam.cbd' MD5='acba5e2b70105f8c15113b189a36c2d8' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\EKBSCH\tha.cbd' MD5='c0b56cadc29baa1f6c48850b3ae7cac4' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\EKBSCH\thu.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\EKBSCH\thy.cbd' MD5='30a5b139547f45c2ee076225e5aef149' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\EKBSCH\vie.cbd' MD5='2f4c1cde2677ed91ff4ffcfdb057f559' />
+	<Folder Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\QJEADH' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\QJEADH\hai.cbd' MD5='5839c338052d9cef60f2d1aba2aae67c' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\QJEADH\lan.cbd' MD5='c8c356423d65965faec0ba43a31ca20d' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\QJEADH\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\QJEADH\nhi.cbd' MD5='62820157e9524d1b585efdd57599c5c9' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\QJEADH\tam.cbd' MD5='2593bc435288150726b401d172bbc3e8' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\QJEADH\tha.cbd' MD5='43cbc2c309e03ced21ac438791993e26' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\QJEADH\thu.cbd' MD5='f6301877952e384deeb648dd1e8f84e0' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\QJEADH\thy.cbd' MD5='17354d23ed7f2dff56dd957d5f4d71e0' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\GHEUIT\QJEADH\vie.cbd' MD5='1d939730a7a3e30599ef590990bcc605' />
+	<Folder Name='Ban ve mau\2. DAM\DAM T2\LTCBEU' />
+	<Folder Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\JJYUQI' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\JJYUQI\hai.cbd' MD5='33cb3d4b47e252d49820ee2e2683233c' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\JJYUQI\lan.cbd' MD5='2f4c1cde2677ed91ff4ffcfdb057f559' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\JJYUQI\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\JJYUQI\nhi.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\JJYUQI\tam.cbd' MD5='acba5e2b70105f8c15113b189a36c2d8' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\JJYUQI\tha.cbd' MD5='c0b56cadc29baa1f6c48850b3ae7cac4' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\JJYUQI\thu.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\JJYUQI\thy.cbd' MD5='30a5b139547f45c2ee076225e5aef149' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\JJYUQI\vie.cbd' MD5='2f4c1cde2677ed91ff4ffcfdb057f559' />
+	<Folder Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\QWTJYK' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\QWTJYK\hai.cbd' MD5='cc1299ab23ec1f862204f822974e0ec2' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\QWTJYK\lan.cbd' MD5='04b77b0dff65a1ea996ce94c59506f6a' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\QWTJYK\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\QWTJYK\nhi.cbd' MD5='dfb42aa21c575212c1bcd0292900669a' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\QWTJYK\tam.cbd' MD5='d53a274a8405d2e78b5df00acdb82e9a' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\QWTJYK\tha.cbd' MD5='26c5872784c0b30e97dc462ee5affa18' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\QWTJYK\thu.cbd' MD5='9f37dea0045bc809f39c34a06014c36f' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\QWTJYK\thy.cbd' MD5='1fb7c3122bdb0a5ef90598e67471c251' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\QWTJYK\vie.cbd' MD5='04b77b0dff65a1ea996ce94c59506f6a' />
+	<Folder Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\YHDTHN' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\YHDTHN\hai.cbd' MD5='5839c338052d9cef60f2d1aba2aae67c' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\YHDTHN\lan.cbd' MD5='c8c356423d65965faec0ba43a31ca20d' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\YHDTHN\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\YHDTHN\nhi.cbd' MD5='62820157e9524d1b585efdd57599c5c9' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\YHDTHN\tam.cbd' MD5='2593bc435288150726b401d172bbc3e8' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\YHDTHN\tha.cbd' MD5='43cbc2c309e03ced21ac438791993e26' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\YHDTHN\thu.cbd' MD5='f6301877952e384deeb648dd1e8f84e0' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\YHDTHN\thy.cbd' MD5='17354d23ed7f2dff56dd957d5f4d71e0' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\LTCBEU\YHDTHN\vie.cbd' MD5='1d939730a7a3e30599ef590990bcc605' />
+	<Folder Name='Ban ve mau\2. DAM\DAM T2\UMNHDA' />
+	<Folder Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\VBLAXL' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\VBLAXL\hai.cbd' MD5='33cb3d4b47e252d49820ee2e2683233c' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\VBLAXL\lan.cbd' MD5='2f4c1cde2677ed91ff4ffcfdb057f559' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\VBLAXL\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\VBLAXL\nhi.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\VBLAXL\tam.cbd' MD5='acba5e2b70105f8c15113b189a36c2d8' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\VBLAXL\tha.cbd' MD5='c0b56cadc29baa1f6c48850b3ae7cac4' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\VBLAXL\thu.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\VBLAXL\thy.cbd' MD5='30a5b139547f45c2ee076225e5aef149' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\VBLAXL\vie.cbd' MD5='2f4c1cde2677ed91ff4ffcfdb057f559' />
+	<Folder Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\XJRRQD' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\XJRRQD\hai.cbd' MD5='cc1299ab23ec1f862204f822974e0ec2' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\XJRRQD\lan.cbd' MD5='04b77b0dff65a1ea996ce94c59506f6a' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\XJRRQD\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\XJRRQD\nhi.cbd' MD5='dfb42aa21c575212c1bcd0292900669a' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\XJRRQD\tam.cbd' MD5='d53a274a8405d2e78b5df00acdb82e9a' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\XJRRQD\tha.cbd' MD5='26c5872784c0b30e97dc462ee5affa18' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\XJRRQD\thu.cbd' MD5='9f37dea0045bc809f39c34a06014c36f' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\XJRRQD\thy.cbd' MD5='1fb7c3122bdb0a5ef90598e67471c251' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\XJRRQD\vie.cbd' MD5='04b77b0dff65a1ea996ce94c59506f6a' />
+	<Folder Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\YYRMIH' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\YYRMIH\hai.cbd' MD5='5839c338052d9cef60f2d1aba2aae67c' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\YYRMIH\lan.cbd' MD5='c8c356423d65965faec0ba43a31ca20d' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\YYRMIH\min.cbd' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\YYRMIH\nhi.cbd' MD5='62820157e9524d1b585efdd57599c5c9' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\YYRMIH\tam.cbd' MD5='2593bc435288150726b401d172bbc3e8' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\YYRMIH\tha.cbd' MD5='43cbc2c309e03ced21ac438791993e26' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\YYRMIH\thu.cbd' MD5='f6301877952e384deeb648dd1e8f84e0' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\YYRMIH\thy.cbd' MD5='17354d23ed7f2dff56dd957d5f4d71e0' />
+		<File Name='Ban ve mau\2. DAM\DAM T2\UMNHDA\YYRMIH\vie.cbd' MD5='1d939730a7a3e30599ef590990bcc605' />
+	<Folder Name='Ban ve mau\3. COT' />
+		<File Name='Ban ve mau\3. COT\cot ok.ccd' MD5='cdcbd49d8860b1588b0eef1859ef78a4' />
+		<File Name='Ban ve mau\3. COT\COT.ccd' MD5='d2081cd9111bf2c8e5d92dff9198476d' />
+	<Folder Name='Ban ve mau\3. COT\COT' />
+		<File Name='Ban ve mau\3. COT\COT\hai.ccd' MD5='ea3228c147f055338d0dbf8ac49f21a7' />
+		<File Name='Ban ve mau\3. COT\COT\nhi.ccd' MD5='7651f1357d2e9c8fcd2bf47a2ad6d78a' />
+		<File Name='Ban ve mau\3. COT\COT\tha.ccd' MD5='8e0c48f5c3d1e82e4e1df2dc10a4acc3' />
+		<File Name='Ban ve mau\3. COT\COT\vie.ccd' MD5='9de754581839b53d4475ab18073276b2' />
+	<Folder Name='Ban ve mau\3. COT\cot ok' />
+		<File Name='Ban ve mau\3. COT\cot ok\hai.ccd' MD5='640475a5f812a67f58022d0c3bdd4fea' />
+		<File Name='Ban ve mau\3. COT\cot ok\nhi.ccd' MD5='8f00ec37588b95292dab0e892430cd6e' />
+		<File Name='Ban ve mau\3. COT\cot ok\tha.ccd' MD5='9395ec51bd6d527f947ae2a4288fca61' />
+		<File Name='Ban ve mau\3. COT\cot ok\vie.ccd' MD5='a8e9e41a02135020cc7a950b46fa1495' />
+	<Folder Name='Ban ve mau\4. THANG BO' />
+		<File Name='Ban ve mau\4. THANG BO\4. THANG BO.vct' MD5='cc95658a87709de073bb82fae3851a2f' />
+	<Folder Name='Ban ve mau\5. CHUYEN LAYER' />
+		<File Name='Ban ve mau\5. CHUYEN LAYER\Layer MAU.lay' MD5='dda50049b50e3d9ed57bd73fbb00ad1b' />
+	<Folder Name='Data' />
+		<File Name='Data\Cat_thep.xls' MD5='d63128069e68a26565398a1dbfa83b14' />
+		<File Name='Data\Net3.5.exe' MD5='269f314b87e6222a20e5f745b6b89783' />
+		<File Name='Data\Temp.dwg' MD5='c4937886a70746ac304e098a4f92d86b' />
+		<File Name='Data\Templale.dwg' MD5='0ba76cf8d8e71bab7c10454ce3fa6ddc' />
+		<File Name='Data\Templale.sxc' MD5='d41d8cd98f00b204e9800998ecf8427e' />
+		<File Name='Data\Template.bak' MD5='8b4ab146decec77e8625f959f210500c' />
+		<File Name='Data\Template.dwg' MD5='84966d62816344b1376d502d7ea987af' />
+		<File Name='Data\Template.rar' MD5='67f017656130ae887094d63d080d9a51' />
+		<File Name='Data\Template22.dwg' MD5='2dce90df4854ddc306c34385d9c41a49' />
+		<File Name='Data\Tem_lt.dwg' MD5='0f958c0f553cbe838643bcd491fca5ed' />
+		<File Name='Data\TL_COT.xls' MD5='53193c21fb9d924d0d4f9a4fdea1ad6f' />
+		<File Name='Data\TL_DAM.xls' MD5='ee06c82fece0a851c80306184b2d0c31' />
+		<File Name='Data\TL_MB.xls' MD5='a2d903f3765e81b8269b3926316cc07f' />
+		<File Name='Data\TL_MBKC.xls' MD5='d014f4e3ab804469bdbeff844b0e17f4' />
+		<File Name='Data\TL_MC.xls' MD5='53554efc259e0d2a5714336061bc3bc6' />
+		<File Name='Data\TL_MD.xls' MD5='bc8884c7f3c0e676016a2b87f8b745e3' />
+	<Folder Name='Data\Icoin' />
+		<File Name='Data\Icoin\cot1.bmp' MD5='4bd3a485b4a943bec592b94ab8482159' />
+		<File Name='Data\Icoin\cot2.bmp' MD5='7835da68c2e2faae775d9f676a31de9a' />
+		<File Name='Data\Icoin\dam1.bmp' MD5='06a8f32471d7d44442f243af0fd38416' />
+		<File Name='Data\Icoin\dam2.bmp' MD5='b82d44e63321b465745d0ed54dcb2bb5' />
+		<File Name='Data\Icoin\dangky.BMP' MD5='406b1ea26a14c0b6c0d110c6ad53084f' />
+		<File Name='Data\Icoin\giang_mong.bmp' MD5='d93bf2f776f1b201d5e128509a119798' />
+		<File Name='Data\Icoin\help.bmp' MD5='b38fa5af4ae874dfb5236cff0064911b' />
+		<File Name='Data\Icoin\lanh_to.bmp' MD5='b2222206a590a7c76e2c51f62d29a253' />
+		<File Name='Data\Icoin\Mong_bang.bmp' MD5='22ba0036afd3660487cb9fabadf12d8d' />
+		<File Name='Data\Icoin\Mong_coc.bmp' MD5='805d8121c344d8482eec86121ad4ba82' />
+		<File Name='Data\Icoin\Mong_Don.bmp' MD5='becd9dad794a3ded7450d1ae747bd072' />
+		<File Name='Data\Icoin\san1.bmp' MD5='ed79dd5f412a81e195cbe33e86645d5f' />
+		<File Name='Data\Icoin\san2.bmp' MD5='1202485e919a7a63864d131314ef82c0' />
+		<File Name='Data\Icoin\thang_bo.bmp' MD5='cbb3505795e32677bd96a13bdd934acc' />
+		<File Name='Data\Icoin\thog_ke_thep.bmp' MD5='376c3aa761d8751f3b05f41ffe12ebd6' />
+		<File Name='Data\Icoin\update.bmp' MD5='4d677bce47cfac9ac8e05ada67181814' />
+		<File Name='Data\Icoin\zalo.BMP' MD5='e55ec9f1081669f07b14f075a9e87540' />
+	<Folder Name='Font_sxcad' />
+	<Folder Name='Font_sxcad\fonts' />
+		<File Name='Font_sxcad\fonts\3T-Unicode.shx' MD5='ea87b3239498c1340f87d5df0e4fa33f' />
+		<File Name='Font_sxcad\fonts\uromans.shx' MD5='4e9af4ef075d6c62f3a5ca099b91ac71' />
+	<Folder Name='Font_sxcad\Font_day' />
+		<File Name='Font_sxcad\Font_day\Template.bak' MD5='b7d86eef581fa81c1ef8f80d876a18c1' />
+		<File Name='Font_sxcad\Font_day\Template.dwg' MD5='8d632babe6b6b9729900384aa57596f1' />
+	<Folder Name='Font_sxcad\Font_manh' />
+		<File Name='Font_sxcad\Font_manh\Template.bak' MD5='c27bd2a060dfcf7b9bdc430ac93352f2' />
+		<File Name='Font_sxcad\Font_manh\Template.dwg' MD5='1930f16025b05f75255e3e770f578649' />
+	<Folder Name='Font_sxcad\TextDim_cao' />
+		<File Name='Font_sxcad\TextDim_cao\Template.bak' MD5='13ef6c5bb66c601ad54bb66185e5cb01' />
+		<File Name='Font_sxcad\TextDim_cao\Template.dwg' MD5='0a8b4ab92cf991100f89018c4e44db84' />
+	<Folder Name='Menu ribbon' />
+		<File Name='Menu ribbon\Menu ribbon.rar' MD5='8d80b6dd4d5c7871b4fa25e5438219d2' />
+		<File Name='Menu ribbon\sxcad.bak.cui' MD5='a3c92788e2220fb4ae5d0583800fe98d' />
+		<File Name='Menu ribbon\sxcad.bak.cuix' MD5='1c9897ec82807dbb8066970464df8c91' />
+		<File Name='Menu ribbon\SXCad.cui' MD5='0581d948d7883546b00e49027036c4bd' />
+		<File Name='Menu ribbon\sxCAD.cuix' MD5='3a7e277546341b46f1d7320f22e8e0e8' />
+		<File Name='Menu ribbon\sxcad.mnr' MD5='918aa0bcb1fe2697d37f536abd859871' />
+		<File Name='Menu ribbon\sxcad_light.mnr' MD5='76086c0ff89497373508c678037f57cb' />
+	<Folder Name='Net IN' />
+		<File Name='Net IN\sxCAD in.ctb' MD5='17eb857a823d7fc26bdaf602a164c066' />
+</Update>
